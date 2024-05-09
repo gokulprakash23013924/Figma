@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div style="width: 360px; height: 800px; position: relative; background: white">
   <img style="width: 2560px; height: 1343px; left: -1175px; top: -375px; position: absolute" src="https://via.placeholder.com/2560x1343" />
   <div style="width: 117px; height: 40px; left: 126px; top: 267px; position: absolute; background: #CFAAFF; border: 1px black solid"></div>
@@ -80,6 +81,7 @@ Figma
   <div style="width: 265px; height: 144px; left: 64px; top: 328px; position: absolute; color: black; font-size: 25px; font-family: Inder; font-weight: 400; word-wrap: break-word">We all are eagerly waiting<br/>for you participation in Events</div>
   <div style="width: 315px; height: 120px; left: 14px; top: 643px; position: absolute; color: black; font-size: 20px; font-family: Inder; font-weight: 400; word-wrap: break-word">Contact us :<br/>   Email id:<br/>     Eventatme@gmail.com<br/>   Phone no:<br/>     9360110743</div>
 </div>
+```
 ## OUTPUT:
 ![alt text](image.png)
 ![alt text](image-1.png)
